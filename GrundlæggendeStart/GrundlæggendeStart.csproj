@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+		<MainEntryPoint>GrundlæggendeStart.Program.Main </MainEntryPoint>
+  </PropertyGroup>
+	
+  <ItemGroup>
+    <PackageReference Include="LibVLCSharp" Version="3.6.6" />
+  </ItemGroup>
+
+</Project>
