@@ -322,12 +322,12 @@ namespace GrundlæggendeStart
                 }
             }
             #endregion
+            
+            #region Model
             static string InputFromUserModel()
             {
                 return Console.ReadLine();
             }
-            #region Model
-
             #endregion
 
             #region Validators
